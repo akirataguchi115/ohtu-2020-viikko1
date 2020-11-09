@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 tekstiä
 testireposta
 eli
 klooni1sta
+=======
+jooh elikkäs
+toka rivi
+kolmas rivi
+>>>>>>> 6c4cbc463cbd2b0c812fc37d2f6fad99dfc329a5
